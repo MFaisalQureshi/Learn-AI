@@ -3,6 +3,7 @@
 <li>Documnetry Series Laurie Segall  https://money.cnn.com/mostly-human/</li>
 <li>Replika AI  https://replika.ai/</li>
 <li>Teachable Machine  https://teachablemachine.withgoogle.com/</li>
+<li> Machine Learningor Kids https://machinelearningforkids.co.uk/ </li>
 <li>DeBuild  https://debuild.co/</li>
 <li>Crowd Source https://crowdsource.google.com/</li>
 <h4> Automatic Car </h4>
