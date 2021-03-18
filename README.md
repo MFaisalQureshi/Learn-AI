@@ -7,6 +7,8 @@
 <li> Meet Sophia, World's First AI Humanoid Robot | Tony Robbins https://www.youtube.com/watch?v=Sq36J9pNaEo&ab_channel=TonyRobbins</li>
 <li> Top 5 Female Humanoid Robots 2020 https://www.youtube.com/watch?v=XSgfE2vg-Kk&ab_channel=TonyRobbinsTonyRobbinsVerified</li>
 <li>Documnetry Series Laurie Segall  https://money.cnn.com/mostly-human/</li>
+<li> GPT 3 Demo and Explanation - An AI revolution from OpenAI https://www.youtube.com/watch?v=8psgEDhT1MM&t=1s&ab_channel=StylistMagazineStylistMagazineVerified</li>
+<li>GPT3 - Will AI replace programmers? https://www.youtube.com/watch?v=u5MmL3nqvfE&ab_channel=HalfIdeas-StartupsandEntrepreneurship</li>
 <li>Replika AI  https://replika.ai/</li>
 <li>Teachable Machine  https://teachablemachine.withgoogle.com/</li>
 <li> Machine Learningor Kids https://machinelearningforkids.co.uk/ </li>
